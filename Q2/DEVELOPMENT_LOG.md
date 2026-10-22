@@ -34,3 +34,8 @@ Record the compilation command used for Q2 and the actual result.
 
 Record the command used to run Q2 and the actual output observed.
 
+
+## Q2-08: Test checklist
+
+List the test cases you actually ran and record their observed results.
+

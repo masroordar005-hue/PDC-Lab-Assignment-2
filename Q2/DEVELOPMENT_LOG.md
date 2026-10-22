@@ -24,3 +24,8 @@ Summarize the main processing steps using the actual source code.
 
 If Q2 uses threads or parallel tasks, describe how they are coordinated. Otherwise, document the relevant execution flow.
 
+
+## Q2-06: Compilation instructions
+
+Record the compilation command used for Q2 and the actual result.
+

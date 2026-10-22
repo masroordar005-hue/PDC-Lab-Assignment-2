@@ -19,3 +19,8 @@ Review the constructors and document the parameters they actually accept.
 
 Summarize the main processing steps using the actual source code.
 
+
+## Q2-05: Thread or task coordination
+
+If Q2 uses threads or parallel tasks, describe how they are coordinated. Otherwise, document the relevant execution flow.
+

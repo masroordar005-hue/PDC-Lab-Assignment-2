@@ -39,3 +39,8 @@ Record the command used to run Q2 and the actual output observed.
 
 List the test cases you actually ran and record their observed results.
 
+
+## Q2-09: Error handling review
+
+Review the actual source code for error handling and document any issues observed during testing.
+

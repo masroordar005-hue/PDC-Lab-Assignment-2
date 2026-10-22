@@ -9,3 +9,8 @@ Review the actual Q1 source code and record observations and test results.
 
 Review the actual Q1 source code and record observations and test results.
 
+
+## Document ReutersQuoteEvent subclass review
+
+Review the actual Q1 source code and record observations and test results.
+

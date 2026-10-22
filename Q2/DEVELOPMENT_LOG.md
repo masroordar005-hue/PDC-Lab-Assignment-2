@@ -14,3 +14,8 @@ Describe the classes and their relationships based on the actual Java implementa
 
 Review the constructors and document the parameters they actually accept.
 
+
+## Q2-04: Processing logic
+
+Summarize the main processing steps using the actual source code.
+

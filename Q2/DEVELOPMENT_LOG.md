@@ -44,3 +44,8 @@ List the test cases you actually ran and record their observed results.
 
 Review the actual source code for error handling and document any issues observed during testing.
 
+
+## Q2-10: Final review checklist
+
+Confirm the source files are present, compilation and runtime results are recorded, and the Git history has been reviewed.
+

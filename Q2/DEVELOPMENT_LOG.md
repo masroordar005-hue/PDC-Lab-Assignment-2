@@ -9,3 +9,8 @@ Review the actual Q2 source files and document their names and responsibilities.
 
 Describe the classes and their relationships based on the actual Java implementation.
 
+
+## Q2-03: Constructor parameters
+
+Review the constructors and document the parameters they actually accept.
+

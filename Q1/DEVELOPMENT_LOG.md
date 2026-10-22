@@ -19,3 +19,8 @@ Review the actual Q1 source code and record observations and test results.
 
 Review the actual Q1 source code and record observations and test results.
 
+
+## Document Java compilation procedure
+
+Review the actual Q1 source code and record observations and test results.
+

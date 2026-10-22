@@ -29,3 +29,8 @@ If Q2 uses threads or parallel tasks, describe how they are coordinated. Otherwi
 
 Record the compilation command used for Q2 and the actual result.
 
+
+## Q2-07: Runtime instructions
+
+Record the command used to run Q2 and the actual output observed.
+

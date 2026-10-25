@@ -58,3 +58,12 @@ Actual observations:
 - Add your own review findings here.
 - Add real test results only after running the program.
 
+
+## Q7-STEP-07 - Review System.nanoTime timing
+
+Review the relevant source code and record what is actually implemented.
+
+Actual observations:
+- Add your own review findings here.
+- Add real test results only after running the program.
+

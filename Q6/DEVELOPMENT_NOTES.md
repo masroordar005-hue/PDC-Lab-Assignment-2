@@ -58,3 +58,12 @@ Actual observations:
 - Add your own review findings here.
 - Add real test results only after running the program.
 
+
+## Q6-STEP-07 - Review stock update operations
+
+Review the relevant source code and record what is actually implemented.
+
+Actual observations:
+- Add your own review findings here.
+- Add real test results only after running the program.
+

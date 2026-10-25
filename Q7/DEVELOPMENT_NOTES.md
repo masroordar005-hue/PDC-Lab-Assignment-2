@@ -76,3 +76,12 @@ Actual observations:
 - Add your own review findings here.
 - Add real test results only after running the program.
 
+
+## Q7-STEP-09 - Review milliseconds conversion
+
+Review the relevant source code and record what is actually implemented.
+
+Actual observations:
+- Add your own review findings here.
+- Add real test results only after running the program.
+

@@ -40,3 +40,12 @@ Actual observations:
 - Add your own review findings here.
 - Add real test results only after running the program.
 
+
+## Q7-STEP-05 - Review column-major traversal
+
+Review the relevant source code and record what is actually implemented.
+
+Actual observations:
+- Add your own review findings here.
+- Add real test results only after running the program.
+
